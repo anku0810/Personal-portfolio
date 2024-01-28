@@ -2,7 +2,7 @@
 # Tech Stack:
 1. React js
 2. Vite Js
-3. Tailwind Css
+3. Tailwind CSS
 
 # Short Note:
 

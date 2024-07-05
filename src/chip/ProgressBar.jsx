@@ -8,7 +8,7 @@ const ProgressBar = ({ logo, name, value, duration = 3 }) => {
         <p className="text-[1.15rem] flex items-center gap-3 sm:text-[1rem] exsm:text-sm exsm:gap-3">
           {logo} {name}
         </p>
-        <span className=" text-gray-400 text-[1.1rem] sm:text-[1rem] exsm:text-sm">
+        <span className=" text-black text-[1.1rem] sm:text-[1rem] exsm:text-sm">
           {value}%
         </span>
       </div>

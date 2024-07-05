@@ -8,7 +8,7 @@ import { FaFacebook, FaLinkedinIn } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
-import resumePDF from "../../assets/Ankit_Resume.pdf";
+import resumePDF from "../../assets/CIT_AnkitPrajapathi_IT.pdf";
 
 
 
@@ -124,7 +124,7 @@ const Hero = () => {
             <div className=" absolute bottom-10 md:bottom-3 right-8 md:right-2">
               <div data-aos="zoom-in" data-aos-duration="1000"  className=" relative cursor-pointer">
                 <img
-                  className=" w-[150px] md:w-[100px] circle-text   "
+                  className=" object-left w-[150px] md:w-[100px] circle-text   "
                   src="https://ik.imagekit.io/imgkitt/tr:w-400/Full_Stack_Developer2.png?updatedAt=1683134009107"
                   alt=""
                 />

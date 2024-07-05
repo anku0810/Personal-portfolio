@@ -51,7 +51,7 @@ const Skills = ({ darkMode }) => {
                   name={"Javascript"}
                   value={60}
                 />
-                <ProgressBar logo={<FaReact />} name={"React Js"} value={40} />
+                <ProgressBar logo={<FaReact />} name={"React Js"} value={50} />
                 <ProgressBar
                   logo={<SiMysql />}
                   name={"MYSQL"}
